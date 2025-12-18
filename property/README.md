@@ -74,26 +74,6 @@ No resources.
 
 No outputs.
 
-
-## Prerequisites
-
-Please ensure you have the following installed before you start, to ensure that your contribution
-follows the same quality standards.
-
-* [`terraform`](https://developer.hashicorp.com/terraform/downloads?product_intent=terraform)
-* [`terraform-docs`](https://terraform-docs.io/)
-* [`tflint`](https://github.com/terraform-linters/tflint)
-* [`tfsec`](https://github.com/aquasecurity/tfsec)
-* [`pre-commit`](https://pre-commit.com/)
-
-Finally, install `pre-commit` into your working copy:
-
-```
-pre-commit install
-```
-
-This will ensure that hooks run before you commit.
-
 ## Pull Request Process
 
 1. Fork the project.
