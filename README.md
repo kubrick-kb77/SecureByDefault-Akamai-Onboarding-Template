@@ -12,13 +12,13 @@ process, and how to customize!
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0.0,<2.0.0 |
-| <a name="requirement_akamai"></a> [akamai](#requirement\_akamai) | >= 3.6.0, < 4.0.0 |
+| <a name="requirement_akamai"></a> [akamai](#requirement\_akamai) | >= 9.2.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_akamai"></a> [akamai](#provider\_akamai) | >= 3.6.0, < 4.0.0 |
+| <a name="provider_akamai"></a> [akamai](#provider\_akamai) | >= 9.2.0 |
 
 ## Modules
 
